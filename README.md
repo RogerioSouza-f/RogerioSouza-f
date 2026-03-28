@@ -63,16 +63,4 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"           
 />
 
-                   
-
-
-
-
-
-
-
-
-<div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogeriosouza-f&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>	
-
 
