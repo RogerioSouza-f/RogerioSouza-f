@@ -1,7 +1,7 @@
 # seja bem vindo(a) <img src="https://media.giphy.com/media/f9jQLaKJJl6dL0AmmZ/giphy.gif" width="30px">
 
 #### Me chamo Rogerio Pires de Freitas Souza
-#### Sou aluno de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 5º período.
+#### Sou aluno de Análise e Desenvolvimento de Sistemas (ADS), atualmente no 6º período.
 #### Tenho interesse em desenvolvimento de software, programação e em aprender constantemente novas tecnologias
 
 ## 🤖 Linguagens
